@@ -748,3 +748,13 @@
   contact: https://github.com/bartventer/arch-devcontainer-features/issues
   repository: https://github.com/bartventer/arch-devcontainer-features
   ociReference: ghcr.io/bartventer/arch-devcontainer-features
+- name: BPMN Linter using bpmnlint
+  maintainer: Waqqas Jabbar
+  contact: https://github.com/waqqas/feature/issues
+  repository: https://github.com/waqqas/feature/
+  ociReference: ghcr.io/waqqas/feature
+- name: DMN Linter using dmnlint
+  maintainer: Waqqas Jabbar
+  contact: https://github.com/waqqas/feature/issues
+  repository: https://github.com/waqqas/feature/
+  ociReference: ghcr.io/waqqas/feature
